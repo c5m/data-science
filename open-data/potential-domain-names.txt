@@ -1,0 +1,6 @@
+hood
+block
+turf
+ghetto
+village
+town

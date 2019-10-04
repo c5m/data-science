@@ -1,0 +1,1 @@
+http://wfs-kbhkort.kk.dk:80/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101:rode&outputFormat=SHAPE-ZIP&SRSNAME=EPSG:4326

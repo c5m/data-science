@@ -1,0 +1,6 @@
+To create map
+1. shapefile
+2. data we want to plot with a key which connects it to a geo location in our shapefile
+3. create GeoPandaFrame from shape file
+4. create DataFrame from data
+5. merge GeoPandaFrame with DataFrame: geo.merge(df, how='left')
